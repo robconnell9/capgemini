@@ -17,4 +17,6 @@
 4. The output will be of the form { "output": 8.77 } and it will be derived by taking the 3 largest input numbers provided, summing their squares and the then
    finding the square root of the sum.
    
+5. N.B. If running on Java 8 change pom.xml (Line 19) to have a target Java.version of 1.8 instead of 11.
+   
    
